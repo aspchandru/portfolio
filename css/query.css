@@ -150,7 +150,7 @@
     gap: 25px;
   }
 
-  .proj-img-box {
+  . {
     width: 28rem;
   }
 
@@ -174,7 +174,7 @@
     width: 90%;
   }
 
-  .proj-img-box .play-icon {
+  . .play-icon {
     font-size: 8rem;
   }
 }
@@ -189,7 +189,7 @@
     gap: 2rem;
   }
 
-  .main-proj-img-box,
+  .main-,
   .proj-img-box {
     width: 55rem;
   }
@@ -198,6 +198,7 @@
     height: 33rem;
     margin: 2rem auto;
     text-align: center !important;
+    width: 35rem !important;
   }
 
   .soft-contain .soft-box svg {
