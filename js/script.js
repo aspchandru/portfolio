@@ -1,7 +1,7 @@
 // Job role Type Effect
 
 const typeText = document.querySelector(".role-txt");
-const roles = ["3D Artist", "Video Editer", "Graphic Designer"];
+const roles = ["3D Artist", "Video Editor", "Graphic Designer"];
 
 let wordIndex = 0;
 let charIndex = 0;
