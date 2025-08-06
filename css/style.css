@@ -721,6 +721,10 @@ body {
   justify-content: center;
 }
 
+.gemIcon {
+width: 10 px;
+}
+
 .copyright-txt {
   font-size: 1.6rem;
   margin-top: 10px;
@@ -733,3 +737,4 @@ body {
 /* #project {
   top: -20px;
 } */
+
